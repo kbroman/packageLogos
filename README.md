@@ -13,3 +13,4 @@ Code to make a bunch of R package logos
 <a href="https://github.com/kbroman/craft"><img src="https://raw.githubusercontent.com/kbroman/craft/master/figure/craft_logo.png" width="80" alt="craft logo"/></a>
 <a href="https://github.com/kbroman/lineup"><img src="lineup/lineup_logo.png" width="80" alt="R/lineup logo"/></a>
 <a href="https://github.com/kbroman/lineup2"><img src="lineup2/lineup2_logo.png" width="80" alt="R/lineup2 logo"/></a>
+<a href="https://github.com/kbroman/xoi"><img src="xoi/xoi_logo.png" width="80" alt="R/xoi logo"/></a>
