@@ -1,4 +1,4 @@
-# make an logo for the circplot package
+# make an logo for the R/qtl package
 
 white <- "white"
 black <- "#222"

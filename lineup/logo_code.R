@@ -1,4 +1,4 @@
-# make an logo for the circplot package
+# make an logo for the R/qtl2 package
 
 bg <- "gray82"
 black <- "#222"
