@@ -14,3 +14,9 @@ Code to make a bunch of R package logos
 <a href="https://github.com/kbroman/lineup"><img src="lineup/lineup_logo.png" width="80" alt="R/lineup logo"/></a>
 <a href="https://github.com/kbroman/lineup2"><img src="lineup2/lineup2_logo.png" width="80" alt="R/lineup2 logo"/></a>
 <a href="https://github.com/kbroman/xoi"><img src="xoi/xoi_logo.png" width="80" alt="R/xoi logo"/></a>
+
+---
+
+Here they are [tiled in a random order](combine_logos.R):
+
+![Logos for packages Karl Broman maintains](combined_logos.png)
