@@ -25,4 +25,4 @@ s <- sticker(p, package="detectPVC",
              p_color=black, h_size=1, u_color=red, h_color=darkred, h_fill=red,
              p_size=20, s_x=1.00, s_y=0.85,
              s_width=1.7, s_height=0.7,
-             p_family="inconsolata", filename="logo.png")
+             p_family="inconsolata", filename="detectPVC_logo.png")
