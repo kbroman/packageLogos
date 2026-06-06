@@ -1,7 +1,9 @@
-# code to combine the package logos into a single tiled image
+61;7600;1c# code to combine the package logos into a single tiled image
 # (after https://masalmon.eu/2018/02/22/hexcombine/)
 
 library("magrittr")
+library(broman)
+library(magick)
 
 hexfiles <- NULL
 dir <- list.files()
@@ -41,4 +43,3 @@ for(i in 1:nrow) {
 }
 
 magick::image_write(combined_logos, "combined_logos.png")
-openfile("combined_logos.png")
