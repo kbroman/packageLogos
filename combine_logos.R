@@ -13,6 +13,7 @@ for(d in dir) {
 }
 message(length(hexfiles), " hexfiles found")
 
+set.seed(20260606)
 nrow <- 4
 ncol <- 3
 row_paths <- split(sample(hexfiles), rep(1:nrow, each=ncol))
