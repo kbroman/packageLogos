@@ -1,9 +1,10 @@
-61;7600;1c# code to combine the package logos into a single tiled image
+# code to combine the package logos into a single tiled image
 # (after https://masalmon.eu/2018/02/22/hexcombine/)
 
 library("magrittr")
 library(broman)
 library(magick)
+library(glue)
 
 hexfiles <- NULL
 dir <- list.files()
